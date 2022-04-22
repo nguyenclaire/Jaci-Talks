@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 238: expected ':' not found.
+    label labcat_end
+                    ^
+
+File "game/script.rpy", line 250: expected ':' not found.
+    label gymcat_end
+                    ^
+
+File "game/script.rpy", line 262: expected ':' not found.
+    label dormcat_end
+                     ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Mon Apr 18 03:16:12 2022
